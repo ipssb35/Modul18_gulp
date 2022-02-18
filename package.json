@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2",
+    "gulp-pug": "^5.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "sass": "^1.49.7",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^5.69.0",
+    "webpack-stream": "^7.0.0"
+  },
+  "name": "modul18_gulp",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "TrifanоvRA",
+  "license": "ISC",
+  "description": ""
+}
